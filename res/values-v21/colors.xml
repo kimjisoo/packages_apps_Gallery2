@@ -51,4 +51,5 @@
     <color name="primary_dark">#961010</color>
     <color name="accent">#d1d1d1</color>
     <color name="textColor">#ffffff</color>
+    <color name="navbarColor">#171717</color>
 </resources>
